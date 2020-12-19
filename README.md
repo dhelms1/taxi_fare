@@ -13,4 +13,4 @@ We are tasked with predicting the fare amount (inclusive of tolls) for a taxi ri
 #### Requirements to run this project:
 - [Kaggle Data](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data) that must be ran through the Data_Prep Notebook. Note that the data is around 5.5GB and only a subset of it was used for this project (slightly under 4,000,000 observations) which still amounted to around 440MB and could not be uploaded to this repository.
 - [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/stable/)
-- Seaborn, matplotlin, NumPy, Pandas, and Python.
+- Seaborn, matplotlib, NumPy, Pandas, and Python.

@@ -1,6 +1,6 @@
 # New York City Taxi Fare Prediction
 
-<img src="/image/taxi_cover.jpeg" width="300">
+<img src="/image/taxi_cover.jpg" width="300">
 
 We are tasked with predicting the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. The evaluation metric for this competition is the root mean-squared error or RMSE. Follow the link to see the [Kaggle Competition](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview/description). Note that it suggest using TensorFlow, but we will use sklearn and regression models to try and predict fare amount.
 
